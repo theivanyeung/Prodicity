@@ -1,8 +1,9 @@
-# Prodicity
-## Interactive Live-Streaming Platform (https://www.prodicity.io/)
+# [Prodicity](https://www.prodicity.io/)
 
 ## TOP INTERACTIVE STREAMING PLATFORM FOR CREATORS
-### This is the new top streaming service with great moderation which equips creators to have the chance to directly interact with their VIP audience!
+#### This is the new top streaming service with great moderation which equips creators to have the chance to directly interact with their VIP audience!
+
+
 
 ---
 
